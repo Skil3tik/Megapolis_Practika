@@ -14,7 +14,7 @@
 ## Description of the project:
  The project was created to solve problems during the internship from Intelligent Megapolis
 ## How to install and run a project
-To install and run the project, you will need [Git](https://git-scm.com / "").
+To install and run the project, you will need [Git](https://git-scm.com/ "").
 After installing the Git program, you use it to download the repository files and save them in one folder
 ## How to use the project:
 You can use the project to sort the rating of books and authors. To do this, you need to replace the values in the files books.txt and books_new.csv
